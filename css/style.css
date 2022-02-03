@@ -1,0 +1,121 @@
+body{
+  color: #40514E;
+  margin: 0;
+    text-align-last: center;
+    font-family: 'Merriweather', serif;
+}
+/*************************  TOP-CONTAINER ***************************/
+.heading-p{
+  margin: 5px auto 0 auto;
+  font-size: 2.5rem;
+}
+
+h1{
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  display: inline-block;
+  font-size: 5.625rem;
+  font-weight: normal;
+}
+
+h2{
+    color: #66BFBF;
+  font-family: 'Montserrat',sans-serif;
+  font-weight: normal;
+padding-bottom: 10px;
+}
+
+h3{
+    color: #11999E;
+  font-family: 'Montserrat',sans-serif;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  padding: 100px;
+  font-family: 'Brush Script MT', cursive;
+}
+.cloud-1{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.cloud-2{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+/*************************  MIDDLE-CONTAINER ***************************/
+.middle-container{
+  margin: 100px 0;
+
+}
+p{
+  line-height: 2;
+}
+.intro{
+  width: 30%;
+  margin: 0 auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.html-icon{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.css-icon{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.contact-me{
+  margin: 50px;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn{
+  background: #11CDDF;
+  padding: 10px 20px 10px 20px;
+  margin:25px;
+  text-decoration: none;
+  color: white;
+  border-radius: 8px;
+  font-size: 20px;
+}
+.btn:hover{
+  background-color: #66BFBF;
+}
+/*************************  LOWER-CONTAINER ***************************/
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.footer-link{
+  text-decoration: none;
+  margin: 10px 20px;
+  color: #11999E
+}
+.footer-link:hover{
+  color: white;
+}
+
+.last-name{
+  color: #EAF6F6;
+  font-size: 1em;
+  padding: 20px 0;
+}
